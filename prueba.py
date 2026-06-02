@@ -264,7 +264,7 @@ plt.rcParams['axes.labelsize'] = 12
 # GRAFICO DE BARRAS
 #-------------------------------------------------------------------------
 
-st.subheader("📊 Gráfico de Barras")
+st.subheader("📊👻 Gráfico de Barras")
 
 fig, ax = plt.subplots(figsize=(12,6))
 
@@ -284,7 +284,7 @@ st.pyplot(fig)
 # GRAFICO DE BASTON
 #-------------------------------------------------------------------------
 
-st.subheader("📍 Gráfico de Bastón")
+st.subheader("📍🐢 Gráfico de Bastón")
 
 fig, ax = plt.subplots(figsize=(12,6))
 
@@ -315,7 +315,7 @@ st.pyplot(fig)
 # HISTOGRAMA + POLIGONO
 #-------------------------------------------------------------------------
 
-st.subheader("📈 Histograma y Polígono")
+st.subheader("📈🐳 Histograma y Polígono")
 
 fig, ax = plt.subplots(figsize=(12, 6))
 
@@ -355,7 +355,7 @@ st.pyplot(fig)
 # OJIVA
 #-------------------------------------------------------------------------
 
-st.subheader("📉 Ojiva")
+st.subheader("📉🦎 Ojiva")
 
 fig, ax = plt.subplots(figsize=(10,5))
 
@@ -393,7 +393,7 @@ st.pyplot(fig)
 # GRAFICO DE TORTA
 #-------------------------------------------------------------------------
 
-st.subheader("🥧 Gráfico de Torta")
+st.subheader("🥧🐒 Gráfico de Torta")
 
 fig, ax = plt.subplots(figsize=(10,5))
 
