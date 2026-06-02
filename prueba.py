@@ -30,7 +30,7 @@ df_est = pd.read_csv("datos_pokemon.csv")
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
-    st.metric("Pokémon", len(df_est))
+    st.metric("Pokémons", len(df_est))
 
 with col2:
     st.metric("Nivel Máximo", df_est["nivel"].max())
