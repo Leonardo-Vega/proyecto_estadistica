@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("(◣ ◢)  ANÁLISIS ESTADÍSTICO DE POKÉMON")
+st.title("🐉 ANÁLISIS ESTADÍSTICO DE POKÉMON")
 
 st.markdown("""
 ### Proyecto de Estadística Descriptiva
